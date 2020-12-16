@@ -32,8 +32,23 @@ hello everyone
 
 this is link for [Google](https://www.google.co.in)
 
---
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+---
+it's my unordered list :
+- Hemant Patel
+- George Washington
+- John Adams
+- Thomas Jefferson
+
+---
+it's my unordered list  :
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+
+---
+1. First list item
+    - First nested list item
+        - Second nested list item
 
 
 
