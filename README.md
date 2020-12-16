@@ -1,13 +1,14 @@
 # readMe_Practice
 
-
+---
+we can use "---" 3 times minus for **hr**
 
 
 # this is my largest heading
 ## this is medium size heading
 ## this is smallest size heading
 
---------------------------------------------------------
+
 ---
 
 
@@ -21,11 +22,17 @@
 
 ***All bold and italict***
 
--------------------------------------------------------
+---
 
 
 hello everyone
 >this is quote text
+
+---
+
+this is link for [Google]("https://www.google.co.in/")
+
+
 
 
 
