@@ -72,17 +72,10 @@ we can add emoji to our writing by typing :EMOJICODE:
 this is the link for [EmojiCode_chart_list](https://www.webfx.com/tools/emoji-cheat-sheet)
 
 ---
-this is cat-gif
+this is cat-gif.
 ![cat gif](https://media1.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-these are png
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+ you can use jpg,png .etc url
 
 ### more details are Coming soon ;
 
