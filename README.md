@@ -6,7 +6,7 @@ we can use "---" 3 times minus for **hr**
 
 # this is my largest heading
 ## this is medium size heading
-## this is smallest size heading
+###### this is smallest size heading
 
 
 ---
@@ -40,7 +40,7 @@ it's my unordered list :
 - Thomas Jefferson
 
 ---
-it's my unordered list  :
+it's my ordered list  :
 1. James Madison
 2. James Monroe
 3. John Quincy Adams
