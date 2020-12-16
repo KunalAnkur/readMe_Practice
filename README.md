@@ -63,5 +63,10 @@ If a task list item description begins with a parenthesis, we'll need to escape 
 ---
 @github/KunalAnkur What do you think about these updates?
       we can use "@" for mentioning people or team.
+      
+---
+we can add emoji to our writing by typing :EMOJICODE:.
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 
