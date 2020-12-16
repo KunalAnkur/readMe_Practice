@@ -46,7 +46,7 @@ it's my ordered list  :
 3. John Quincy Adams
 
 ---
-it's my unordered list  :
+it's my nested list  :
    1. First list item
       - First nested list item
         - Second nested list item
