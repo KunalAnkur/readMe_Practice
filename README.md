@@ -7,7 +7,7 @@
 ## this is medium size heading
 ## this is smallest size heading
 
-
+--------------------------------------------------------
 
 
 
@@ -21,6 +21,7 @@
 
 ***All bold and italict***
 
+-------------------------------------------------------
 
 
 hello everyone
