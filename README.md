@@ -32,7 +32,8 @@ hello everyone
 
 this is link for [Google](https://www.google.co.in)
 
-
+--
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 
 
