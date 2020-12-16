@@ -56,7 +56,7 @@ this is my tasks list
 - [x] Finished my task
 - [ ] learn how to write README.md
 - [ ] commit my repository
-If a task list item description begins with a parenthesis, we'll need to escape it with "\"
+      If a task list item description begins with a parenthesis, we'll need to escape it with "\"
 - [ ] \(optional) share this repository with friends.
         
 
