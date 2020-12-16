@@ -75,6 +75,14 @@ this is the link for [EmojiCode_chart_list](https://www.webfx.com/tools/emoji-ch
 
 ![cat gif](https://media1.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
 ### more details are Coming soon ;
 
 
