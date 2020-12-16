@@ -50,9 +50,12 @@ it's my unordered list  :
    1. First list item
       - First nested list item
         - Second nested list item
-           - third nested list item
 ---
 
+this is my tasks list
+- [x] Finished my task
+- [ ] learn how to write README.md
+- [ ] commit my repository
         
 
 
