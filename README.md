@@ -69,7 +69,7 @@ we can add emoji to our writing by typing :EMOJICODE:
 
 @octocat :+1: This PR looks great - it's ready to merge! :sleeping:
 
-this is the link for [Emoji_chart_list](https://www.webfx.com/tools/emoji-cheat-sheet)
+this is the link for [EmojiCode_chart_list](https://www.webfx.com/tools/emoji-cheat-sheet)
 
 ---
 
