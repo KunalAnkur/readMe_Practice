@@ -73,6 +73,6 @@ this is the link for [Emoji_chart_list](https://www.webfx.com/tools/emoji-cheat-
 
 ---
 
-### more detail Comming soooooon ;
+### more details are Coming soon ;
 
 
