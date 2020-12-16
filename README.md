@@ -58,7 +58,7 @@ this is my tasks list
 - [ ] commit my repository      
 - [ ] \(optional) share this repository with friends.
 
-If a task list item description begins with a parenthesis, we'll need to escape it with "\"
+If a task list item description begins with a parenthesis, we'll need to escape it with "\\"
 
 ---
 @github/KunalAnkur What do you think about these updates?
