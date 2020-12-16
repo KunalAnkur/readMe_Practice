@@ -30,7 +30,7 @@ hello everyone
 
 ---
 
-this is link for [Google]("https://www.google.co.in/")
+this is link for [Google](https://www.google.co.in)
 
 
 
