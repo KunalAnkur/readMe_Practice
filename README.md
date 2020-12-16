@@ -56,6 +56,7 @@ this is my tasks list
 - [x] Finished my task
 - [ ] learn how to write README.md
 - [ ] commit my repository
+- [ ] \(optional) share this repository with friends.
         
 
 
