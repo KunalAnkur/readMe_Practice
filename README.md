@@ -94,7 +94,7 @@ this is cat-gif.
 }
 ```
 ---
-this is code view with colorful : 
+this is code view with Syntax highlighting : 
 ```java
 class HelloWorld {
     public static void main(String[] args) {
