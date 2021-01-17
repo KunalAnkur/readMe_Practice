@@ -1,5 +1,5 @@
 # readMe_Practice
-
+official github Mastering Markdown [click here](https://guides.github.com/features/mastering-markdown/)
 ---
 we can use "---" 3 times minus for **hr**
 
