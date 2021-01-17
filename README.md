@@ -83,6 +83,26 @@ this is cat-gif.
 
 
  you can use jpg,png .etc url
+ 
+ ---
+ 
+ this is simple code view : 
+ ``` class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+```
+---
+this is code view with colorful : 
+```java
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+```
+---
 
 ### more details are Coming soon ;
 
